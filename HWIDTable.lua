@@ -1,0 +1,3 @@
+return {
+"YNMGQ-8RYV3-4PGQ3-C8XTP-7CFBY_HWID"
+}
